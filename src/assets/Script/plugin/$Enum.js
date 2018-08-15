@@ -1,0 +1,1 @@
+UIEnum={},UIEnum.Flip=cc.Enum({UP:-1,LEFT:-1,DOWN:-1,RIGHT:-1});
